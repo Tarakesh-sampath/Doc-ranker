@@ -1,0 +1,13 @@
+[project]
+name = "doc-ranker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "faiss-gpu>=1.7.2",
+    "nltk>=3.9.2",
+    "pypdf>=6.6.1",
+    "sentence-transformers>=5.2.0",
+    "tqdm>=4.67.1",
+]
