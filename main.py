@@ -1,3 +1,6 @@
+import nltk
+nltk.download("punkt")
+
 def main():
     print("Hello from doc-ranker!")
 
