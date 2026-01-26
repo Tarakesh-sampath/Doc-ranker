@@ -90,7 +90,7 @@ def copy_unique_files(source_dir, dest_dir, extensions=None):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Copy unique files from source to destination based on content.")
     parser.add_argument("--source", help="Source directory to scan")
-    parser.add_argument("--dest", help="Destination directory to copy unique files to")
+    parser.add_argument("--dest", default="library_pdfs", help="Destination directory to copy unique files to")
     parser.add_argument("--ext", nargs="+", help="Optional: filter by extensions (e.g., .pdf .txt)")
     
     args = parser.parse_args()

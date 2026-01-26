@@ -108,7 +108,7 @@ def build_index(model):
 
 # --------------- Query --------------------
 def rank_with_queries(model):
-    index = faiss.read_index(os.path.join(INDEX_DIR, "library.faiss"))
+    index = faiss.read_index(os.path.join(INDEX_DIR, "index.faiss"))
     with open(os.path.join(INDEX_DIR, "meta.json")) as f:
         meta = json.load(f)
 
