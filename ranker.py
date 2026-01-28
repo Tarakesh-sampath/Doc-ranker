@@ -169,7 +169,7 @@ if __name__ == "__main__":
     print("Loading model on GPU...")
     model = SentenceTransformer(MODEL_NAME, device="cuda")
 
-    if not os.path.exists(os.path.join(INDEX_DIR, "library.faiss")):
+    if not os.path.exists(os.path.join(INDEX_DIR, "index.faiss")):
         build_index(model)
 
     rank_with_queries(model)
