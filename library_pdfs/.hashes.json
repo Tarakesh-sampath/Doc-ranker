@@ -1,0 +1,732 @@
+{
+    "PhysRevA.107.062417-accepted.pdf": {
+        "mtime": 1768468537.477526,
+        "size": 715246,
+        "hash": "66ffffa2a2c7a0979ff465b2dbcba2985cbf94dfef5fafd38dba32ed9a3c2da1"
+    },
+    "Generalized Quantum Hadamard Test for Machine Learning - 2508.04065v1.pdf": {
+        "mtime": 1768466367.7085214,
+        "size": 745951,
+        "hash": "8d57617430319b7fd40cd60e47df801ed86e2ad07d01c2016830d6673013541c"
+    },
+    "Fidelity and Accuracy trade-off in quantum kernels - 6-2-38-302.pdf": {
+        "mtime": 1768467997.0281136,
+        "size": 778412,
+        "hash": "737c5193d8f4142446f376e7d859a90f33f0c6f1b718b954f60a23bda5acc1ab"
+    },
+    "Amplitude-based Input Attribution in Quantum Learning via Integrated Gradients - 2510.02497v1.pdf": {
+        "mtime": 1768466347.8845966,
+        "size": 978724,
+        "hash": "88c8aec017444a79a127440dcdfdb04b7aee8fedeb022c114c3098b39db9d9a8"
+    },
+    "2505.13525v2.pdf": {
+        "mtime": 1768466405.2590814,
+        "size": 1101239,
+        "hash": "b2b38b00b436f0d87ca64de25acc142e24a9fd507736d1402b6cd5a78e1b986e"
+    },
+    "2311.18719v2.pdf": {
+        "mtime": 1768468249.7727923,
+        "size": 614144,
+        "hash": "92588dc404c5b151bf2ff22a4d094f463c2609b40f0a8ebe7b4c522ee9f11efe"
+    },
+    "Quantum Machine and Deep Learning for Medical Image Classification_ A Systematic Review of Trends, Methodologies, and Future Directions - Quantum Machine and Deep Learning for Medical Image Classificatio.pdf": {
+        "mtime": 1768466876.2264667,
+        "size": 1620082,
+        "hash": "dc9dec682ad9752b9f97179ceba94213150657d4db4c67761c75fdcde80f2293"
+    },
+    "A novel image classification framework based on variational quantum algorithms - s11128-024-04566-9.pdf": {
+        "mtime": 1768466882.564262,
+        "size": 1750622,
+        "hash": "9244e140f6711a5fb435fe5bd4425e1f15c31445926aee03abeb50ba99a9c74b"
+    },
+    "2504.04101v1.pdf": {
+        "mtime": 1768466450.1955957,
+        "size": 745706,
+        "hash": "28c53cd74867a0a660770615218260385b580e8bbec72d27e1d8a29699c1aac7"
+    },
+    "Parallel Multi-Circuit Quantum Feature Fusion in Hybrid Quantum-Classical Convolutional Neural Networks for Breast Tumor Classification - 2512.02066v1.pdf": {
+        "mtime": 1768466322.165404,
+        "size": 431890,
+        "hash": "cc2ddcf3d88dd93b394d055681afc924dcbde845ded73340c04b9e7fb8b2f40d"
+    },
+    "PDF.js viewer-hybride qunatum classifer gradient optmiser.pdf": {
+        "mtime": 1768467891.3238235,
+        "size": 2302164,
+        "hash": "c6ee516676e5b87e69eee691e560eb4e4b281df546f6ab1780d243e91a727d2a"
+    },
+    "2505.02033v1.pdf": {
+        "mtime": 1768466449.643035,
+        "size": 391278,
+        "hash": "084b9de73053ad782ebec970dc352595a4f14fe251bc37483804a51a9e75c3e0"
+    },
+    "2302.04633v1.pdf": {
+        "mtime": 1768466516.297007,
+        "size": 467306,
+        "hash": "331a390f5f961fbd9ee125627ee0b625dfbe4ad0315e25d43564535bc1f67840"
+    },
+    "Dimensionality reduction with variational encoders based on subsystem purification - 2209.09791v2.pdf": {
+        "mtime": 1768466462.6161757,
+        "size": 334167,
+        "hash": "fad1c49c3f972899440a306dcaa29d3cabd89ca3db09f8f0814b18f2256c63e0"
+    },
+    "Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering - 2507.15845v1.pdf": {
+        "mtime": 1768466392.245074,
+        "size": 2963197,
+        "hash": "5fa7ed4daa1ad850558ed0594d324f3fe12df09ab2db22982ec86af621ccb887"
+    },
+    "2303.07906v1.pdf": {
+        "mtime": 1768466431.2880383,
+        "size": 247063,
+        "hash": "18d6cebaa280721b5a3ce4aef61662c44bd69fdd550c0cd6f7c867c277e9cb2d"
+    },
+    "2505.06441v1.pdf": {
+        "mtime": 1768466425.0822842,
+        "size": 1228712,
+        "hash": "0818e5b8e2a575ccec6573fbbe56ddf6ef0210cae672dee8a6dd54270455e05e"
+    },
+    "Machine-Learning-Enhanced Entanglement Detection Under Noisy Quantum Measurements - 2507.05476v3.pdf": {
+        "mtime": 1768466396.4154735,
+        "size": 797471,
+        "hash": "a76f4e56274ae195123a68e478f3200a4e8694789748ee18ef8709d71dd7211d"
+    },
+    "2-4-2-Quantum+Neural+Network+(QNN)+Architectures+and+Their+Potential+in+High-Dimensional+Medical+Image+Classification.pdf": {
+        "mtime": 1768466748.0910554,
+        "size": 495112,
+        "hash": "817b614420076de093ac8dfd7aee1ca03e724077b6b073605b309eb2e92afa6e"
+    },
+    "2204.12192v1.pdf": {
+        "mtime": 1768466288.6068316,
+        "size": 805364,
+        "hash": "2fcf5058567b602185fd4307e29ac3280a12ef8de8f22785b4d091385444bcb5"
+    },
+    "PDF.js viewer.pdf": {
+        "mtime": 1768466833.2423818,
+        "size": 6371712,
+        "hash": "28da26ccbde5052e3286dd00ebfb196cfa451b4c0a7de5884470ed0ab9ae1eb2"
+    },
+    "Single-Qudit Quantum Neural Networks for Multiclass Classification - 2503.09269v1.pdf": {
+        "mtime": 1768466456.502527,
+        "size": 319484,
+        "hash": "af6bf16f4ea55f006bd3cecedd21aa32f94c07ec3e7be1b7e6b908ab7010e4e5"
+    },
+    "1804.00633v1.pdf": {
+        "mtime": 1768469987.9272375,
+        "size": 1475532,
+        "hash": "5a2d1f934d36ca4a3a2915a4aa5a9b3673f66aaabbf7e51943193cdf5aab8929"
+    },
+    "s41598-024-66394-2.pdf": {
+        "mtime": 1768470091.2610304,
+        "size": 2103027,
+        "hash": "de3863a0a2b9835e0a4d0fcb6b89db5904c9438a7b00362670e94c392fc3ba1e"
+    },
+    "2006.12270v1.pdf": {
+        "mtime": 1768470264.529687,
+        "size": 1380268,
+        "hash": "7d9895d6dff48f574d05d7a575c8bab64b8a23703a426f9df00054ecf7b34d3e"
+    },
+    "2108.01218v2.pdf": {
+        "mtime": 1768470069.6241255,
+        "size": 1127424,
+        "hash": "acfef50ba0d4193ad0be7b9af559204da006ff478412837f0520244662a99dba"
+    },
+    "2004.01227v2.pdf": {
+        "mtime": 1768470004.4232042,
+        "size": 7112760,
+        "hash": "91b8a3b563a6db0e52d443b2a27f92c1131aee8d648830af2079107df0698d14"
+    },
+    "2201.08629v1.pdf": {
+        "mtime": 1768470256.4457028,
+        "size": 400942,
+        "hash": "90baf2686481547c4ca02f7180fbd0d72cac5ac7371bd3c9648a40e0fe791913"
+    },
+    "entropy-25-00860-v2.pdf": {
+        "mtime": 1768470151.6399102,
+        "size": 1312392,
+        "hash": "231d03b95759d3559d7e7b4eb703b1a25eb30b99f5ee2648bff5c458e063e69d"
+    },
+    "1703.10793v2.pdf": {
+        "mtime": 1768470078.0290568,
+        "size": 1232404,
+        "hash": "32205500878c4a8f576033724a6e095dc50df318a66ea97495bbaa01dc0bf198"
+    },
+    "PhysRevLett.114.200501-accepted.pdf": {
+        "mtime": 1768470059.429094,
+        "size": 435663,
+        "hash": "2154599beb52da9c7bd4bf1e546686987692f1819d90e49ceec73e4157be6d7e"
+    },
+    "s42484-021-00038-w.pdf": {
+        "mtime": 1768470259.7556963,
+        "size": 3101325,
+        "hash": "aced4e2f7d69da7107fb89109a80cb02ee960b5ec3b030f8ee468e42cac48c64"
+    },
+    "s41598-017-13378-0.pdf": {
+        "mtime": 1768471394.1748407,
+        "size": 1687150,
+        "hash": "75479220e5c2fd384a82a1949a459fa5f14e705a1e6eb23d77cb4fc52a961a26"
+    },
+    "Haug_2023_Mach._Learn.__Sci._Technol._4_015005.pdf": {
+        "mtime": 1768470722.9203765,
+        "size": 1782344,
+        "hash": "ec066cd255d86a49e7db37de10f2b67f7d7c7a7e433f7ed589faede69e5a3f73"
+    },
+    "s41534-020-0272-6.pdf": {
+        "mtime": 1768470714.7551901,
+        "size": 1037039,
+        "hash": "a9c8c7761aee5349a90d92456a502b749bbaa6fcc24f80b9bdd3e6d1c4898d50"
+    },
+    "Efficient_Quantum_Image_Classification_Using_Single_Qubit_Encoding.pdf": {
+        "mtime": 1768470728.7185073,
+        "size": 5848075,
+        "hash": "264244fda4ec1cd005085ae1db5eb7683d3760e174719ad2134408b6c1a1413f"
+    },
+    "Teo_2021_New_J._Phys._23_103021.pdf": {
+        "mtime": 1768470733.2875326,
+        "size": 4436580,
+        "hash": "e247ebadbb7d72ec3d7a91b72e2481ba26e5b81dbcc83061cc64f37472406ff4"
+    },
+    "0707.3479v1.pdf": {
+        "mtime": 1768473277.8090107,
+        "size": 324320,
+        "hash": "c85fda18edc47ad96d10cd8183706a046565029f4bed1bd4f6594023aa6abd8d"
+    },
+    "qml_preprint.pdf": {
+        "mtime": 1768473334.009756,
+        "size": 1700284,
+        "hash": "0506d02fdeaa075a9b7e74435ba66419edba4aa2c306e681757642772945c0f7"
+    },
+    "PRXQuantum.4.030305.pdf": {
+        "mtime": 1768473295.4859278,
+        "size": 5535624,
+        "hash": "8cd6dcebbd2276cba38b0a42842088b0d2341c8d9ed284171679ebd87c78a1ad"
+    },
+    "optica-11-7-896.pdf": {
+        "mtime": 1768473374.283589,
+        "size": 4893953,
+        "hash": "fb1195c412468e3ad605a9035cda66a285b2dfe617a718d88e4ecd1fc34c0194"
+    },
+    "Adv Quantum Tech - 2025 - Neukart - QMM\u2010Enhanced Error Correction Demonstrating Reversible Imprinting and Retrieval for.pdf": {
+        "mtime": 1768473256.2511156,
+        "size": 1148641,
+        "hash": "b984ffe0aa814962c1f79f0940417fcccf4a540d287efa83e1aefa22faabf07f"
+    },
+    "Kiani_2022_Quantum_Sci._Technol._7_045002.pdf": {
+        "mtime": 1768473382.603556,
+        "size": 16418652,
+        "hash": "7b163a18adaf22a6035cf6bcdc385b1287557d03affad733362ee05f56a4ee6c"
+    },
+    "2010.02174v2.pdf": {
+        "mtime": 1768473345.1337087,
+        "size": 545362,
+        "hash": "0151dbbc2ed8ea1cf0762790bde89dd5c39487299d5eb7426c53e3d48d91413b"
+    },
+    "2309.03608v2.pdf": {
+        "mtime": 1768473315.8448355,
+        "size": 3445444,
+        "hash": "c535c2d7be91d6a0cd29f925e42e6a173ccff3652d054fcbbbd3614a3fb6b03e"
+    },
+    "2310.18243v1.pdf": {
+        "mtime": 1768470894.436765,
+        "size": 1331400,
+        "hash": "080b2d0709de7812274f33a60c4f7ba83a8ac0ba336ee26158e0edb746b3db9d"
+    },
+    "1401.2142v2.pdf": {
+        "mtime": 1768470950.0556788,
+        "size": 1250252,
+        "hash": "ece19ee032e0c97cca55b62297a80cde5a08a9134db03187e2c71fa1ed46a19f"
+    },
+    "Adv Quantum Tech - 2023 - Pillay - A Multi\u2010Class Quantum Kernel\u2010Based Classifier.pdf": {
+        "mtime": 1768470883.4695752,
+        "size": 1381281,
+        "hash": "553bc845bbeb4e9cff27887120d6e6841746922d40111f296a873b1defa1eef3"
+    },
+    "2104.00971v1.pdf": {
+        "mtime": 1768470858.0916362,
+        "size": 3298837,
+        "hash": "9e08777ed87779d3359745156ee71e168ce59aaa30582e1e20f3c95e05644757"
+    },
+    "2403.15308v1.pdf": {
+        "mtime": 1768470852.712025,
+        "size": 471694,
+        "hash": "3d0edb085ff95480472b33d58a71a3bda13ae4452332a6d666ef20546a04820a"
+    },
+    "2001.03622v2.pdf": {
+        "mtime": 1768470908.7300074,
+        "size": 4951839,
+        "hash": "c7986cf211c66deb549e185c1cd781db44665fda872d9b4de5b66941e1f82ffc"
+    },
+    "PhysRevResearch.3.033056.pdf": {
+        "mtime": 1768470845.4348907,
+        "size": 2710624,
+        "hash": "81908f35491ac580ff8b9c3160e5df930280d0fb05ed6c8b320412bd50b0cc1e"
+    },
+    "document.pdf": {
+        "mtime": 1768470942.6465616,
+        "size": 1096169,
+        "hash": "0b58c983d075bfa37f5ba748c1f5dd01696e135e796c6ec3d8ca9c45d957132f"
+    },
+    "main.pdf": {
+        "mtime": 1768470503.6037343,
+        "size": 430023,
+        "hash": "80f2b5058a004bf8e0ba1fe60db630dee12061b100c1b2fce5b7dd67a4617e2f"
+    },
+    "out.pdf": {
+        "mtime": 1768470374.85847,
+        "size": 893226,
+        "hash": "8c8ae5b0625d3b46c86c0edc165f35f1c54215f4bd8f3ef1f7e3785c71f618b8"
+    },
+    "1708.09757v2.pdf": {
+        "mtime": 1768470473.2533236,
+        "size": 1014316,
+        "hash": "696eebf8794c6526caa74063332017a132ef5ba78ac68ba6baea832d5c685a61"
+    },
+    "2308.00044v2.pdf": {
+        "mtime": 1768470432.6953566,
+        "size": 1602556,
+        "hash": "5bf4f8c857c2a53968f21a588aa2db9e98a757dfe4874ee9ea34c76a3d481903"
+    },
+    "2505.10062v2.pdf": {
+        "mtime": 1768470448.811325,
+        "size": 1229806,
+        "hash": "04f6267fac54ed4d8423984ff50c91fcf2bea3523ae9ed6e11b404bbe57b7547"
+    },
+    "s41598-022-05971-9.pdf": {
+        "mtime": 1768470568.513378,
+        "size": 1723813,
+        "hash": "08ba362325e005985d317735d88408caab68e1ce1d436611473e63f3764e885c"
+    },
+    "2401.11351v2.pdf": {
+        "mtime": 1768470478.6505105,
+        "size": 1266272,
+        "hash": "98a6cc527b19dc20d4bd09a34057351d2d75fb9b4fd59b71054412ac066dd07a"
+    },
+    "rgyh-8xw8.pdf": {
+        "mtime": 1768470469.789284,
+        "size": 3905808,
+        "hash": "603b58de2efb89c86ea37315bd7ffbad6035c6ef905d7025e3e919c13e936ab6"
+    },
+    "Challenges_and_Opportunities_of_Near-Term_Quantum_Computing_Systems.pdf": {
+        "mtime": 1768470560.264133,
+        "size": 1455095,
+        "hash": "8fa456b9e67987fd6a4b730c020393810d76e5398c4ad98566dfc3f64de0e68e"
+    },
+    "PIIS2589004225013197.pdf": {
+        "mtime": 1768470536.9684222,
+        "size": 3971147,
+        "hash": "b465870e14fba223cdc03d4b04920487f174b054c6cead453091bc6713807f28"
+    },
+    "algorithms-18-00156.pdf": {
+        "mtime": 1768472995.0277803,
+        "size": 2074588,
+        "hash": "45b31ec8641b4e053bef6c7f5b6112f21d3a3cba35e737d72c7c23075eb22c86"
+    },
+    "s41598-024-74778-7.pdf": {
+        "mtime": 1768473093.3780572,
+        "size": 2756310,
+        "hash": "b127e719a207abce86847884225b6150ea7b2c53fa34b90a18748a6bb8c5a3fb"
+    },
+    "Medical Image Classification using Hybrid.pdf": {
+        "mtime": 1768473040.1074324,
+        "size": 686318,
+        "hash": "338e868ba1379d3a718e9014659c6f0cbe6282bf4cc0c9a27b9716f76cca160f"
+    },
+    "A_New_Quantum_Circuits_of_Quantum_Convolutional_Neural_Network_for_X-Ray_Images_Classification.pdf": {
+        "mtime": 1768473188.217475,
+        "size": 6854799,
+        "hash": "ac68de0854e4b80b777dbbd167bc0b14f2d4a823139a5a93bde433c026de435a"
+    },
+    "s12880-023-01084-5.pdf": {
+        "mtime": 1768472818.2814689,
+        "size": 3010109,
+        "hash": "6e84a430e4adc77eb7a1228d6c94d814bbad2b8593cc4b788ea216cc61143a3e"
+    },
+    "2510.08552v1.pdf": {
+        "mtime": 1768471453.7023318,
+        "size": 848354,
+        "hash": "786d559079d9a1581f1cb0e198dbfb38520002e7e59bd86a5f2c206c188d1192"
+    },
+    "sciadv.adv2590.pdf": {
+        "mtime": 1768471352.7184777,
+        "size": 1070899,
+        "hash": "2301dc96a2c0ae255ea70a17f207413876fbf28363bdbc28d49eff918839859f"
+    },
+    "1304.0741v1.pdf": {
+        "mtime": 1768471428.7791302,
+        "size": 1586179,
+        "hash": "981eb059a6dbd7bd0339260b5883618271c6cc8a868e5d5ccc7e2d701c182b7b"
+    },
+    "q-2021-10-19-566.pdf": {
+        "mtime": 1768471302.7080145,
+        "size": 1530371,
+        "hash": "827514f215cd058ac9e5f5c6890ac1ca1272fd20db8250fc3a1fb3ccfc5bfe49"
+    },
+    "0005055v1.pdf": {
+        "mtime": 1768471370.7296376,
+        "size": 295305,
+        "hash": "b88e22e768d262b0d15d179dff650f29806db3e5448fe52b9e783681e1ee13bf"
+    },
+    "2403.18927v2.pdf": {
+        "mtime": 1768471380.1917202,
+        "size": 858124,
+        "hash": "9cba076f3ab84f057456290820112c5f83da451a9a625d174322cd4c6f524d89"
+    },
+    "2404.01396v2.pdf": {
+        "mtime": 1768471449.8403008,
+        "size": 2488331,
+        "hash": "bc0ed4ebf70a7536f3df6f04434248a84fa14be43af9cfbb659b41e7f3fe667f"
+    },
+    "PRXQuantum.2.040342.pdf": {
+        "mtime": 1768471445.3292646,
+        "size": 2412661,
+        "hash": "ca0ebc69e31b926f4341dfe9f1740725df06152cb73033d990197b5fb42a7727"
+    },
+    "OS7-4.pdf": {
+        "mtime": 1768472578.2768903,
+        "size": 280058,
+        "hash": "6ee6437bff4eb657ddb017da725d1432980d40fbe9f6f5a87901241b631e2f14"
+    },
+    "2109.01831v2.pdf": {
+        "mtime": 1768472471.1617725,
+        "size": 2223387,
+        "hash": "5da2d82fedc3cfbb699fddfb5c9a36f21bdf80aa89496b92f53cd80e2d918749"
+    },
+    "s12911-021-01588-6.pdf": {
+        "mtime": 1768472497.7818778,
+        "size": 1975393,
+        "hash": "b2827bdc496f2ce241dd1cdf41cfcf6c786eb30fb044ebbaa21aceae2076fad0"
+    },
+    "2501.06225v1.pdf": {
+        "mtime": 1768473043.5374072,
+        "size": 2889438,
+        "hash": "99392c030845da5973971c0f0ab2e9f173e3802f1d399a87949b69ff82a6abea"
+    },
+    "paperlin._1.txt": {
+        "mtime": 1768472594.320131,
+        "size": 138,
+        "hash": "5732b0a48aa99e93c03f2261cb53c817ad193119863c662782f5e584f36c1822"
+    },
+    "Optimal_Trace_Distance_and_Fidelity_Estimations_for_Pure_Quantum_States.pdf": {
+        "mtime": 1768469185.766519,
+        "size": 1486892,
+        "hash": "b92d2bcdbcfe40f347f79e0c216f550626d3063a73cd93ddd9ad57623fde74d0"
+    },
+    "2212.00677v4.pdf": {
+        "mtime": 1768469183.1399653,
+        "size": 1075543,
+        "hash": "0e34e720b388e2c90bd34758caf8b750b7ef43b15d3a8599c46f4c9b12464c5f"
+    },
+    "Variational Quantum Fidelity Estimation - q-2020-03-26-248.pdf": {
+        "mtime": 1768468732.6424897,
+        "size": 500173,
+        "hash": "94f79e6f2573ff0d19503ca8187f7da1756ce10efe1bf46c5d103a90cede0262"
+    },
+    "Kim_2022_New_J._Phys._24_073009.pdf": {
+        "mtime": 1768470103.7234526,
+        "size": 1681033,
+        "hash": "483b7a94c79540c1db849f5568deaa0e0e0fd81aa5a68a6a2c1ded8984226e27"
+    },
+    "2103.09076v2.pdf": {
+        "mtime": 1768469116.3934205,
+        "size": 237910,
+        "hash": "b3dd904823b62add981e565ec6212b5cb7c8fd7aa92a12116af67a5c98d08f5b"
+    },
+    "Kalev_2015_New_J._Phys._17_093008.pdf": {
+        "mtime": 1768469296.5437014,
+        "size": 2165588,
+        "hash": "0fa43be133636be28b5df2782380e7a8f6d2966440d9865c3dde4571fe987b46"
+    },
+    "2203.15993v1.pdf": {
+        "mtime": 1768469176.7429805,
+        "size": 454852,
+        "hash": "f98198b205378e9d6006eaafad25cf5f08d14ab2659ad0e8a7a89c2490fad998"
+    },
+    "Foulds_2021_Quantum_Sci._Technol._6_035002.pdf": {
+        "mtime": 1768469433.2823954,
+        "size": 2449802,
+        "hash": "b2aa7338a0a2369efe0a77895261b6da7865a191df2b6b3d153ad91c43fa186a"
+    },
+    "Emotion_Quantification_Using_Variational_Quantum_State_Fidelity_Estimation.pdf": {
+        "mtime": 1768469347.7055855,
+        "size": 2195884,
+        "hash": "2640e94ee859ab4b3f916c36ca429bf164293d29e9447cc913f567059d54cd72"
+    },
+    "PhysRevResearch.6.033074.pdf": {
+        "mtime": 1768469425.4084127,
+        "size": 1188128,
+        "hash": "a6a910d63b84ac854ceb8bb68af039dfa295584cddf30dc208195c193fade600"
+    },
+    "2412.07623v1.pdf": {
+        "mtime": 1768469256.300794,
+        "size": 562432,
+        "hash": "2751c95e8c8546faf00fe002fe084bf9065ec4226282ec4b87494df1366d2097"
+    },
+    "PhysRevLett.106.230501-accepted.pdf": {
+        "mtime": 1768469243.311824,
+        "size": 209963,
+        "hash": "c888e4e07ccc20ca0fc18a6d1c3d48cf0b58c25573b1537cb57bbe1056f1e051"
+    },
+    "Senokosov_2024_Mach._Learn.__Sci._Technol._5_015040.pdf": {
+        "mtime": 1768470117.8139775,
+        "size": 1443832,
+        "hash": "00ebe31a020e2f1aa40f05d83dde424597762b555d50d36f92ae7e164c93860c"
+    },
+    "2102.02369v2.pdf": {
+        "mtime": 1768469135.6520789,
+        "size": 1468565,
+        "hash": "6bd2b0821bf5e3e8932bba5236a28ca99abc0f7768efed4846e4d17cda55eac9"
+    },
+    "2506.23650v1.pdf": {
+        "mtime": 1768469304.8966825,
+        "size": 467603,
+        "hash": "7b48a099507dc637048e5e22f73fac288ca6c3b7977e7a622b589f553e117c40"
+    },
+    "nihms-1995265.pdf": {
+        "mtime": 1768469436.1173892,
+        "size": 1429647,
+        "hash": "217e7fecaae9674c0ec18c237d5783a932fcbac14354ce0bde3db816984ec7d3"
+    },
+    "1906.10639v3.pdf": {
+        "mtime": 1768469438.8813832,
+        "size": 882560,
+        "hash": "c76869690eb7633a5cff8aed85a90853cfb83c671bb8e1722cbad2d673752214"
+    },
+    "2112.02568v2.pdf": {
+        "mtime": 1768469428.008407,
+        "size": 1090136,
+        "hash": "7cebfa19c789affe25db1a78767fad80b9c7748309bc6af79118e8d044be32db"
+    },
+    "3644823.pdf": {
+        "mtime": 1768470252.9537098,
+        "size": 2006685,
+        "hash": "479e21af7705d639b3efe9aba5c5dc41263e483658267f04c151b61e7fce715d"
+    },
+    "2012.05768v3.pdf": {
+        "mtime": 1768469188.658704,
+        "size": 678381,
+        "hash": "98f4f532aad69056f3c1416cfcedb08db237cdf65a11f7a983f4acb5f04878a6"
+    },
+    "entropy-24-00394-v2.pdf": {
+        "mtime": 1768470194.621825,
+        "size": 3450233,
+        "hash": "eb7ab9576f7040aef5ddf2c8ef517497d3d33c8a339764b30b495420f77bdd9a"
+    },
+    "2208.02893v1.pdf": {
+        "mtime": 1768469430.8514009,
+        "size": 1956875,
+        "hash": "c6161232da9513bedd6eaae1d3ce356c586292b537dca41f959070d7c89378d8"
+    },
+    "1712.03213v3.pdf": {
+        "mtime": 1768469180.3789718,
+        "size": 697587,
+        "hash": "ea7ad30bfddb967faa5ec87a6d264c9f7f3245990c16bb5e0403e065038e7abe"
+    },
+    "PDF.js viewer_1.pdf": {
+        "mtime": 1768469127.1896584,
+        "size": 8436144,
+        "hash": "fc8e57889689b820244ebb159df5c9219ed81b75fb9744ea26804712b5f4b12b"
+    },
+    "Benedetti_2019_Quantum_Sci._Technol._4_043001.pdf": {
+        "mtime": 1768470262.412691,
+        "size": 1384564,
+        "hash": "e4fabd4c8639dd0e491a115067b2b75149b9695ea77be38faf416739694c716e"
+    },
+    "3_2302.04633v1.pdf": {
+        "mtime": 1772129712.4175665,
+        "size": 696832,
+        "hash": "3d967d0e71164500af9999b6a99361ee6136831d17fc24f82b31199eeb7825ce"
+    },
+    "9_2502.15254v2.pdf": {
+        "mtime": 1772129869.96986,
+        "size": 745758,
+        "hash": "cdced90f41d00700b4bf268a4ea6c912014e64d100b8ea297539b3bab902a785"
+    },
+    "6_Quantum_Machine_Learning_in_Medical_Image_Analysis_From_Diagnostics_to_Surgery_Planning.pdf": {
+        "mtime": 1772129807.7371829,
+        "size": 10733855,
+        "hash": "afb8c75076e0d4d3379e56fd35a21363683d15e55eb7c22a5221257881610ca7"
+    },
+    "5_selvan20a.pdf": {
+        "mtime": 1772129739.7631757,
+        "size": 5052846,
+        "hash": "e158856567534409f67618a43fa2b680e3f26b6c13670d45b3ad88b490b93484"
+    },
+    "11_aci-10-2025-0448en.pdf": {
+        "mtime": 1772129916.0515878,
+        "size": 2899053,
+        "hash": "ac39c3fac0bdc576dee71b53343622d872bf954ca1792b13a871c1d8f12cb49b"
+    },
+    "2_036106_1_5.0270673.pdf": {
+        "mtime": 1772129688.2901485,
+        "size": 11996140,
+        "hash": "f71c2a509c33cd3c8cbc6f038d0530cebd02679339372f99432c5b8b517fadbb"
+    },
+    "7_ajtr0017-3357.pdf": {
+        "mtime": 1772129829.8154864,
+        "size": 1748873,
+        "hash": "f09ec80795d211fac25870f8b305b3f145e1b5563eeb1f3e8d32f2c5d0ff84b0"
+    },
+    "10_Thesis_Master-22_compressed.pdf": {
+        "mtime": 1772129897.2584748,
+        "size": 1931057,
+        "hash": "bca1106d0cb89fb53234c60138ef8f528ed7ab87e321b138f59c16f7ff27bc60"
+    },
+    "4_covered_fbcaa525-a911-4ad0-a0d4-0c6c5c03f78b.pdf": {
+        "mtime": 1772129731.2216728,
+        "size": 1389770,
+        "hash": "9bd048404b588a593ef7553e0487ec990e669bb340f68f3bf593d3176b63fc13"
+    },
+    "7_24103-64811-1-PB.pdf": {
+        "mtime": 1772129860.8433204,
+        "size": 657389,
+        "hash": "fa0f748b877cc8b514fe2490b27def0f5cc7d8930b3da83ccc358c3ba65db26d"
+    },
+    "1_Quantum Enhanced Histopathologic Cancer Detection.pdf": {
+        "mtime": 1772129521.237454,
+        "size": 1359966,
+        "hash": "aa64789f7f25e87fface0d5ce4f5b4ff978bd09dca5df48c35fa57eb4e680256"
+    },
+    "2009.13288v1.pdf": {
+        "mtime": 1769504400.70261,
+        "size": 683628,
+        "hash": "80edc60d459fb31791343e6459a902585d087b378e6597b1357a715d346dce4d"
+    },
+    "2407.03421v2.pdf": {
+        "mtime": 1769504400.7093976,
+        "size": 960000,
+        "hash": "b040d47c5b0d536220dc31905dd100373789e42b4d3a6bb19136cc5e4edea82b"
+    },
+    "PhysRevResearch.1.013006.pdf": {
+        "mtime": 1769504400.7303245,
+        "size": 657986,
+        "hash": "b1598914ef61065f19ab89b7a4e6ea9d4e56deb810a4c5b3c9afa0fe39e33dcf"
+    },
+    "2507.19250v1.pdf": {
+        "mtime": 1769504400.7196643,
+        "size": 4946488,
+        "hash": "a7e5d8080602c819c87280eb99ffee290dfef5277605f23bf10bbb514a4ae7ac"
+    },
+    "2508.04065v1.pdf": {
+        "mtime": 1769504400.7255383,
+        "size": 1110905,
+        "hash": "1a91e96b4b2a59655f4f205196720163264779df7665d6446fd0a8cb9c010ec0"
+    },
+    "Xu_2022_Commun._Theor._Phys._74_055106.pdf": {
+        "mtime": 1769504400.7356844,
+        "size": 1114120,
+        "hash": "947b7bd74c2274665a019a22e4385288e1edbfaba918c584e74c20c195001f4b"
+    },
+    "25695_Hadamard_Test_is_Suffici.pdf": {
+        "mtime": 1769504400.7279496,
+        "size": 505518,
+        "hash": "9fdf085f47f9b2225f8ab028071339d5df4b2cb799a46b097e7b396a9bf35430"
+    },
+    "cqjw-kl8s.pdf": {
+        "mtime": 1769504400.7439044,
+        "size": 1774116,
+        "hash": "d032d983d03d346a6fa5c467cfdb12d45559308a1e7f271500f6af46b1449ae0"
+    },
+    "1802.06002v2.pdf": {
+        "mtime": 1769504400.811018,
+        "size": 387425,
+        "hash": "2d074415a88d436bc43757fb39752a27f23572d9bcf8b56998d5ec1847c5c29a"
+    },
+    "On_Circuit-Based_Hybrid_Quantum_Neural_Networks_for_Remote_Sensing_Imagery_Classification.pdf": {
+        "mtime": 1769504400.880143,
+        "size": 4821977,
+        "hash": "fae61faafe23b49364dcfbabf291e7aa8d9d0cc316022449b0e1b9abb96ee3a3"
+    },
+    "2108.00661v2.pdf": {
+        "mtime": 1769504400.819385,
+        "size": 2712879,
+        "hash": "951002172ae6691155534dbbcb70ca4a1a769b1755171e54dba94428b648af94"
+    },
+    "applsci-11-06427-v2.pdf": {
+        "mtime": 1769504400.8922064,
+        "size": 3235297,
+        "hash": "632004bf6127674599e87e780f454e09a1f9a7161b30bb2eb0b467e41d267cb0"
+    },
+    "s11128-024-04566-9.pdf": {
+        "mtime": 1769504400.898784,
+        "size": 1389497,
+        "hash": "deb24eaa40dcbe4257b30b81b1cadaaa51be9f88872f23d2f33cd3504c1fa2b5"
+    },
+    "Benchmarking_Quantum_Machine_Learning_Kernel_Training_for_Classification_Tasks.pdf": {
+        "mtime": 1769504400.8553238,
+        "size": 8376500,
+        "hash": "1a648c96b059cecd315b3dcf788825bdb2d18dcce8fc5abeeb840f7ff5d3326d"
+    },
+    "Benedetti_2019_Quantum_Sci._Technol._4_043001_1.pdf": {
+        "mtime": 1769504400.8615696,
+        "size": 1384564,
+        "hash": "588c891cefa1b88424c2c42b063f80ff2ddd32632ff81c7de0fcaf9fe4ee480d"
+    },
+    "2511.10018v1.pdf": {
+        "mtime": 1769504400.936812,
+        "size": 319959,
+        "hash": "2b81d790deaede840d15d23c93f1175fc8a79f5709aac110fdebe864b6b365aa"
+    },
+    "IET Quantum Communication - 2024 - Macaluso - An efficient quantum algorithm for ensemble classification using bagging.pdf": {
+        "mtime": 1769504400.9558966,
+        "size": 1593371,
+        "hash": "890e3ca0f59e657507b44befa75bb5345628bd3f8b3175cf4e6a6c64b57cc22a"
+    },
+    "s41598-018-20403-3.pdf": {
+        "mtime": 1769504400.9645352,
+        "size": 1488701,
+        "hash": "4eaac56a027f2d3bf5910e46fbdb7bd8821d526f7cefe0c3c535845e88b4fb90"
+    },
+    "2007.01028v3.pdf": {
+        "mtime": 1769504400.929983,
+        "size": 1213413,
+        "hash": "be7fb92bf9637700992e07e5e16eaaa793a46d3e285e28f5029bc9f35b2f7205"
+    },
+    "2202.02151v2.pdf": {
+        "mtime": 1769504400.935275,
+        "size": 2086052,
+        "hash": "666e49e05b45291c2ba0044f53639d0a293c5aaf712117c3ed19dab6cc096a92"
+    },
+    "1412.3635v1.pdf": {
+        "mtime": 1769504400.920296,
+        "size": 402069,
+        "hash": "a4ef194406e03253897f498eec686d1c078e0c5703ca450f61f06f099b1498b8"
+    },
+    "Adv Quantum Tech - 2024 - Lee - Quadratic Speed\u2010ups in Quantum Kernelized Binary Classification.pdf": {
+        "mtime": 1769504400.9494703,
+        "size": 2546874,
+        "hash": "85d009e3e9ffd3155f8ba07c6cd42f3dafa2fe3f655c6367db172a509612f3c0"
+    },
+    "electronics-14-02189-v2.pdf": {
+        "mtime": 1769504400.7811217,
+        "size": 1601009,
+        "hash": "eb5f3c0c212b982c7ecd9068cc94575678a5ed21f5be1230c1e02672ec201025"
+    },
+    "Adv Quantum Tech - 2023 - Pillay - A Multi\u2010Class Quantum Kernel\u2010Based Classifier_1.pdf": {
+        "mtime": 1769504400.7593029,
+        "size": 1381279,
+        "hash": "ad73e427b93baca0b83efef58835e2a68af052f42aa8a33004c5073cf01b74c5"
+    },
+    "journal.pone.0287869.pdf": {
+        "mtime": 1769504400.78993,
+        "size": 2022621,
+        "hash": "4a32f0110d2cca0e9c98e3046914c1487eeb25c7c067c162bc72ed5d2dabfcde"
+    },
+    "s41598-025-95897-9.pdf": {
+        "mtime": 1769504400.8089848,
+        "size": 3588025,
+        "hash": "1a29d73b45dad9613cf9a394dafc662b7b12a5d476beab09e59219a11fe8d305"
+    },
+    "2506.16938v3.pdf": {
+        "mtime": 1769504400.7526896,
+        "size": 989083,
+        "hash": "3bd3d30cb92812f9124fea36509d64ec33a317702584c96a3560347706797850"
+    },
+    "1904.12697v2.pdf": {
+        "mtime": 1769504400.7486126,
+        "size": 889425,
+        "hash": "ac9b39e3058a6a85dfe6bc4d1ea8633c5d656bbb8f8dab822e1fc27a090d6864"
+    },
+    "mathematics-12-01872-v4.pdf": {
+        "mtime": 1769504400.793247,
+        "size": 745367,
+        "hash": "941364f70577f10891ae5cdf4d0cbce502e23771db82f5fea5b458e72e4a9d6a"
+    }
+}
