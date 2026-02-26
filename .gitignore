@@ -10,4 +10,8 @@ wheels/
 .venv
 
 # copy folders
+query* 
 *copy*
+combined_output_test*
+library_pdfs*
+index*
